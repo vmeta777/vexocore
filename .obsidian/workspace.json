@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "b58278301e250c93",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
+            "id": "503d5f0e3f49b600",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-06-06.md",
+                "file": "_articles/Setting up a Custom Domain.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +61,7 @@
             "id": "edda9e9b7c04de0d",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "graph",
               "state": {}
             }
           },
@@ -86,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 477.5
   },
   "right": {
     "id": "fa5c2b51a2ba60c1",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-06-06.md",
+                "file": "_articles/Setting up a Custom Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-06-06.md",
+                "file": "_articles/Setting up a Custom Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-06-06.md"
+                "file": "_articles/Setting up a Custom Domain.md"
               }
             }
           },
@@ -159,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -173,9 +164,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "503d5f0e3f49b600",
   "lastOpenFiles": [
+    "_articles/Violet Summary.md",
     "_daily/2023-06-06.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "_wiki/L-Dopa.md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/The Exocore Workflow.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/Jade post.md",
+    "_daily/2022-05-11.md",
+    "_wiki/Usufruct.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
@@ -183,8 +188,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }

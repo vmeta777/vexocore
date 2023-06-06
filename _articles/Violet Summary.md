@@ -1,11 +1,12 @@
 ---
+published: true
 subtitle:
 topic: Computers
 date: 2021-01-27
 tags: exocore remilia computers web
 ---
 
-# The Exocore Package
+# Violet Summary
 
 [![](/images/exocore.png)](/articles/installation-instructions/)
 

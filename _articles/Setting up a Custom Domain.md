@@ -7,7 +7,7 @@ date: 2022-04-16
 tags: meta exocore computers learning test
 ---
 
-# Set up a Custom Domain
+# Setting up a Custom Domain
 
 Custom domains can be added for a better look and more memorable url, but you will need to purchase one. If you already have a domain, follow the steps in [Configuring a Domain Purchased Elsewhere](#configuring-a-domain-purchased-elsewhere) 
 
