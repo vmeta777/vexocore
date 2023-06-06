@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Setting up a Custom Domain.md",
+                "file": "_daily/2023-06-06.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Setting up a Custom Domain.md",
+                "file": "_daily/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Setting up a Custom Domain.md",
+                "file": "_daily/2023-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Setting up a Custom Domain.md"
+                "file": "_daily/2023-06-06.md"
               }
             }
           },
